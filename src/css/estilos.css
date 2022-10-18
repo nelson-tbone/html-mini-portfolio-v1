@@ -1,0 +1,27 @@
+* {
+    background-color: beige;
+}
+
+.cartao, .apresentacao, .conteudo {
+    border: 2px solid;
+    border-color: royalblue;
+    width: 340px;
+}
+
+.guias {
+    background-color: green;
+    display: flex;
+    align-items: center;
+}
+
+.aba {
+    display: none;
+}
+
+.aba.selecionado {
+    display: block;
+}
+
+.cartao {
+    width: 350px;
+}
