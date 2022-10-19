@@ -6,22 +6,34 @@
     border: 2px solid;
     border-color: royalblue;
     width: 340px;
+    background-color: red;
 }
 
 .guias {
+    align-items: center;
+    background-color: green;
+}
+
+.abas {
     background-color: green;
     display: flex;
-    align-items: center;
+    justify-content: center;
+    width: 50%;
 }
 
-.aba {
+.aba-conteudo {
     display: none;
+    background-color: green;
 }
 
-.aba.selecionado {
+.aba-conteudo.selecionado {
     display: block;
 }
 
 .cartao {
     width: 350px;
+}
+
+.paragrafo {
+    background-color: transparent;
 }
