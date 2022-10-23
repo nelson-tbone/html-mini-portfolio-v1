@@ -1,3 +1,5 @@
-Arquivo readme do projeto.
+# Arquivo readme do projeto.
 
-estou mudando só pra ver se muda alguma coisa e sincroniza.
+## Coisas pra rever (to-do):
+
+- ver as âncoras;
